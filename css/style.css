@@ -1,0 +1,40 @@
+.landing {
+  height: 100vh;
+  background: rgba(100.100,0,1);
+  background-image: url('images/donadona.jpeg');
+  background-size: cover;
+  background-blend-mode: multiply;
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+.section-1 {
+  height: 100vh;
+  background: rgba(0.100,100,1);
+  background-image: url('images/maradona-level1.jpg');
+  background-size: cover;
+  background-blend-mode: multiply;
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+.bg-dark {
+}
+.d-flex {
+/*          border: 1px solid yellow;*/
+  height: 100%;
+}
+.title {
+  padding:10px 20px;
+  border: 1px solid white;
+}
+a {
+  text-decoration: none;
+  background: none;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  background: none;
+  color: white;
+}
